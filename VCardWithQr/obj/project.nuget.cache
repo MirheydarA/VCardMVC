@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "msEQJj7EpQB4IadR7jbdGmRigy1PmS7nSeAQ45XBjPgi3EfRse67qp51RiEk8ELcK0Ilcd0B5/h7eR5rpBeoEQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\projects\\VCardWithQr\\VCardWithQr\\VCardWithQr.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\qrcoder\\1.6.0\\qrcoder.1.6.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\system.drawing.common\\8.0.8\\system.drawing.common.8.0.8.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\zxing.net\\0.16.9\\zxing.net.0.16.9.nupkg.sha512"
+  ],
+  "logs": []
+}

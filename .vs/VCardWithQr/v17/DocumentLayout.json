@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\projects\\VCardWithQr\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{383D5C59-3482-4410-B097-5C53B15B2824}|VCardWithQr\\VCardWithQr.csproj|c:\\users\\asus\\desktop\\projects\\vcardwithqr\\vcardwithqr\\controllers\\vcardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{383D5C59-3482-4410-B097-5C53B15B2824}|VCardWithQr\\VCardWithQr.csproj|solutionrelative:vcardwithqr\\controllers\\vcardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{383D5C59-3482-4410-B097-5C53B15B2824}|VCardWithQr\\VCardWithQr.csproj|C:\\Users\\ASUS\\Desktop\\projects\\VCardWithQr\\vcardwithqr\\views\\vcard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{383D5C59-3482-4410-B097-5C53B15B2824}|VCardWithQr\\VCardWithQr.csproj|solutionrelative:vcardwithqr\\views\\vcard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{383D5C59-3482-4410-B097-5C53B15B2824}|VCardWithQr\\VCardWithQr.csproj|C:\\Users\\ASUS\\Desktop\\projects\\VCardWithQr\\vcardwithqr\\models\\vcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{383D5C59-3482-4410-B097-5C53B15B2824}|VCardWithQr\\VCardWithQr.csproj|solutionrelative:vcardwithqr\\models\\vcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VCardController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\projects\\VCardWithQr\\VCardWithQr\\Controllers\\VCardController.cs",
+              "RelativeDocumentMoniker": "VCardWithQr\\Controllers\\VCardController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\projects\\VCardWithQr\\VCardWithQr\\Controllers\\VCardController.cs",
+              "RelativeToolTip": "VCardWithQr\\Controllers\\VCardController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwA0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T17:21:57.515Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\projects\\VCardWithQr\\VCardWithQr\\Views\\VCard\\Index.cshtml",
+              "RelativeDocumentMoniker": "VCardWithQr\\Views\\VCard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\projects\\VCardWithQr\\VCardWithQr\\Views\\VCard\\Index.cshtml",
+              "RelativeToolTip": "VCardWithQr\\Views\\VCard\\Index.cshtml",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAwC4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T17:29:32.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VCard.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\projects\\VCardWithQr\\VCardWithQr\\Models\\VCard.cs",
+              "RelativeDocumentMoniker": "VCardWithQr\\Models\\VCard.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\projects\\VCardWithQr\\VCardWithQr\\Models\\VCard.cs",
+              "RelativeToolTip": "VCardWithQr\\Models\\VCard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T17:23:47.442Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
