@@ -9,6 +9,7 @@ namespace VCardWithQr.Controllers;
 
 public class VCardController : Controller
 {
+    [HttpGet]
     public IActionResult Index()
     {
         return View();
@@ -17,10 +18,8 @@ public class VCardController : Controller
     [HttpPost]
     public IActionResult GenerateQR(VCard model)
     {
-
         var vcardText = model.ToVCard();
 
-        // Initialize a barcode writer
         var writer = new BarcodeWriterPixelData
         {
             Format = BarcodeFormat.QR_CODE,

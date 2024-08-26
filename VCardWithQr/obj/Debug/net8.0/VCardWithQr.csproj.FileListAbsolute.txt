@@ -35,3 +35,4 @@ C:\Users\ASUS\Desktop\projects\VCardWithQr\VCardWithQr\obj\Debug\net8.0\refint\V
 C:\Users\ASUS\Desktop\projects\VCardWithQr\VCardWithQr\obj\Debug\net8.0\VCardWithQr.pdb
 C:\Users\ASUS\Desktop\projects\VCardWithQr\VCardWithQr\obj\Debug\net8.0\VCardWithQr.genruntimeconfig.cache
 C:\Users\ASUS\Desktop\projects\VCardWithQr\VCardWithQr\obj\Debug\net8.0\ref\VCardWithQr.dll
+C:\Users\ASUS\Desktop\projects\VCardWithQr\VCardWithQr\obj\Debug\net8.0\VCardWithQr.sourcelink.json
